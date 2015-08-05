@@ -1,0 +1,25 @@
+{
+  "name": "paper-toast-manager",
+  "version": "1.0.0",
+  "authors": [
+    "Mygod <mygodstudio@gmail.com>"
+  ],
+  "description": "An easier way to generate paper-toasts at runtime.",
+  "keywords": [
+    "web-component",
+    "polymer"
+  ],
+  "main": "paper-toast-manager.html",
+  "license": "GPLv3",
+  "homepage": "https://github.com/Mygod/paper-toast-manager",
+  "ignore": [
+    "/.*",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "paper-toast": "PolymerElements/paper-toast#~1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.5"
+  }
+}
