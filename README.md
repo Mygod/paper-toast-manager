@@ -11,7 +11,7 @@ Example:
 
 Install with:
 
-    bower install --save Mygod/paper-toast-manager
+    bower install --save paper-toast-manager
 
 If you don't have [Bower](http://bower.io/) yet, you can install that via:
 
