@@ -1,6 +1,6 @@
 {
   "name": "paper-toast-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "Mygod <mygodstudio@gmail.com>"
   ],
@@ -18,9 +18,9 @@
     "LICENSE"
   ],
   "dependencies": {
-    "paper-toast": "PolymerElements/paper-toast#~1.0.0"
+    "paper-toast": "PolymerElements/paper-toast#^1.1.1"
   },
   "devDependencies": {
-    "iron-component-page": "PolymerElements/iron-component-page#^1.0.5"
+    "iron-component-page": "PolymerElements/iron-component-page#^1.1.2"
   }
 }
